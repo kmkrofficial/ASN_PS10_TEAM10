@@ -1,0 +1,50 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.7,-1.05 ]
+    },
+    "properties": {
+    "FIELD1":113,
+    "AttackID":"SUS-001",
+    "Date":"2019-04-21 12:00:00+03:00",
+    "Location":"Around 270nm SE of Mogadishu, Somalia.",
+    "Narration":"21.04.2019",
+    "Status":"Suspicious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.434723,12.100278 ]
+    },
+    "properties": {
+    "FIELD1":357,
+    "AttackID":"004-21",
+    "Date":"2021-01-14 11:49:00+03:00",
+    "Location":"Gulf of Aden.",
+    "Narration":"While underway, a bulk carrier noticed a skiff approaching. Alarm sounded and all crew mustered. At a distance of 0.2nm weapons and ladders were noticed in the skiff. The onboard armed team fired warning shots, resulting in the skiff aborting and moving away.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.434723,12.100278 ]
+    },
+    "properties": {
+    "FIELD1":365,
+    "AttackID":"Attempted",
+    "Date":"2021-01-14 11:49:00+03:00",
+    "Location":"Gulf of Aden.",
+    "Narration":"While underway, a bulk carrier noticed a skiff approaching. Alarm sounded and all crew mustered. At a distance of 0.2nm weapons and ladders were noticed in the skiff. The onboard armed team fired warning shots, resulting in the skiff aborting and moving away.",
+    "Status":"004-21"
+    }
+  }
+]
+}

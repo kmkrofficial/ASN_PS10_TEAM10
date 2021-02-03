@@ -1,0 +1,4 @@
+,AttackID,Date,Location,Narration,Status,lat,lon
+113,SUS-001,2019-04-21 12:00:00+03:00,"Around 270nm SE of Mogadishu, Somalia.",21.04.2019,Suspicious,-1.05,48.7
+357,004-21,2021-01-14 11:49:00+03:00,Gulf of Aden.,"While underway, a bulk carrier noticed a skiff approaching. Alarm sounded and all crew mustered. At a distance of 0.2nm weapons and ladders were noticed in the skiff. The onboard armed team fired warning shots, resulting in the skiff aborting and moving away.",Attempted,12.100278,44.434723
+365,Attempted,2021-01-14 11:49:00+03:00,Gulf of Aden.,"While underway, a bulk carrier noticed a skiff approaching. Alarm sounded and all crew mustered. At a distance of 0.2nm weapons and ladders were noticed in the skiff. The onboard armed team fired warning shots, resulting in the skiff aborting and moving away.",004-21,12.100278,44.434723

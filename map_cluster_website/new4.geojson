@@ -1,0 +1,2075 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.933334,1.1666666 ]
+    },
+    "properties": {
+    "FIELD1":0,
+    "AttackID":"162-19",
+    "Date":"2019-12-03 02:10:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Five to seven persons in a wooden boat approached and attempted to board a tug underway. Duty watchman noticed the boat and raised the alarm resulting in the persons aborting and moving away.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.22333499999999,1.27 ]
+    },
+    "properties": {
+    "FIELD1":2,
+    "AttackID":"160-19",
+    "Date":"2019-11-28 22:20:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Chief Engineer onboard a bulk carrier underway noticed four robbers armed with knives in the engine room and informed Master. Alarm raised, deck lights switched on and crew mustered. Seeing the alerted crew the robbers escaped. A search was carried out. Foot prints were noticed on the quarter deck. Nothing reported stolen.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.0631904999999997,36.763992 ]
+    },
+    "properties": {
+    "FIELD1":3,
+    "AttackID":"159-19",
+    "Date":"2019-12-13 05:30:00+01:00",
+    "Location":"Algeria.",
+    "Narration":"Duty crew onboard a berthed tanker noticed three unauthorised persons attempting to board via the forward mooring ropes. Alarm raised resulting in the persons escaping. Incident reported to PFSO. A search was carried out. Nothing reported stolen.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.48333000000001,1.15 ]
+    },
+    "properties": {
+    "FIELD1":4,
+    "AttackID":"158-19",
+    "Date":"2019-12-24 23:20:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Five robbers boarded a product tanker underway. Second Engineer noticed and shouted at the robbers. Alarm raised, crew mustered, and incident reported to Singapore VTS. Seeing the crew alertness, the robbers escaped without stealing anything. The tanker anchored at Sudong Special anchorage where a Singapore coast guard personnel boarded the tanker for inspection. All crew safe.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.11694,1.2658334 ]
+    },
+    "properties": {
+    "FIELD1":5,
+    "AttackID":"157-19",
+    "Date":"2019-12-23 00:20:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Five persons armed with knives and guns boarded a bulk carrier underway. They entered into the engine room, took hostage two duty crew, threatened them and tied them up. The robbers stole engine spares and escaped. Incident reported to Singapore VTIS. A coast guard boat responded and escorted the vessel.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.35,17.6025 ]
+    },
+    "properties": {
+    "FIELD1":7,
+    "AttackID":"155-19",
+    "Date":"2019-12-01 06:05:00+05:30",
+    "Location":"Visakhapatnam Anchorage, India.",
+    "Narration":"Around 15 to 18 persons in three skiffs approached an anchored bulk carrier. They attempted to board the ship using a rope attached to a hook. Alert crew noticed the attempted boarding and notified the port control and Coast Guard. A patrol vessel was dispatched resulting in the robbers aborting the attempted boarding and escaped. After chasing the boats for a while, the  patrol boat managed to stop one skiff and arrested the persons onboard.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.083336,1.25 ]
+    },
+    "properties": {
+    "FIELD1":8,
+    "AttackID":"154-19",
+    "Date":"2019-12-22 23:00:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"While underway, a tanker was boarded by five robbers armed with knives. Two duty crew on routine rounds were confronted by the robbers, who threatened them and tied them up. Alarm raised and crew mustered. Hearing the alarm, the robbers escaped without stealing anything. Incident reported to Singapore VTIS.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.01666999999999,1.25 ]
+    },
+    "properties": {
+    "FIELD1":9,
+    "AttackID":"153-19",
+    "Date":"2019-12-20 22:30:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Five robbers armed with long knives boarded a bulk carrier underway. They entered into the engine room, took hostage two duty crew and threatened them with knives. The robbers stole engine spares and escaped. Alarm raised, crew mustered, and incident reported to Singapore VTIS. A coast guard boat responded and escorted the ship to an anchorage, where they boarded the ship for inspection. All crew safe.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.28472,-5.5008335 ]
+    },
+    "properties": {
+    "FIELD1":11,
+    "AttackID":"151-19",
+    "Date":"2019-12-11 03:25:00+07:00",
+    "Location":"Panjang Anchorage, Indonesia.",
+    "Narration":"Three robbers armed with long knives boarded an anchored bulk carrier. They broke into the engine room work shop, stole auxiliary engine spares and escaped. Authorities notified.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.34639,1.3052778 ]
+    },
+    "properties": {
+    "FIELD1":17,
+    "AttackID":"143-19",
+    "Date":"2019-11-28 04:45:00+08:00",
+    "Location":"Singapore Straits.",
+    "Narration":"While underway, a duty engine crew onboard a bulk carrier was confronted by robbers armed with knives. The robbers threatened the crew with a knife and attempted to take him hostage. The crew managed to escape and raised the alarm resulting in the crew mustering. Seeing the alerted crew, the robbers escaped without stealing anything. Master reported the incident to VTIS. A patrol boat was dispatched to the location. Vessel and crew are safe.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.7,1.0833334 ]
+    },
+    "properties": {
+    "FIELD1":20,
+    "AttackID":"140-19",
+    "Date":"2019-10-18 22:07:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Five robbers armed with knives and crowbars boarded a tanker underway and entered the engine room. Duty Engine crew noticed the robbers and raised the alarm, resulting in the robbers escaping without stealing anything. Incident reported to Singapore VTIS.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.5675,1.2016666999999999 ]
+    },
+    "properties": {
+    "FIELD1":23,
+    "AttackID":"137-19",
+    "Date":"2019-11-05 19:48:00+08:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Six persons in two speed boats approached a tanker underway. Duty crew noticed the persons attempting to board the tanker and raised the alarm. Master increased the speed and took evasive manoeuvres resulting in the persons aborting the boarding attempt.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.69406,3.7880587999999995 ]
+    },
+    "properties": {
+    "FIELD1":27,
+    "AttackID":"133-19",
+    "Date":"2019-11-08 02:00:00+07:00",
+    "Location":"Belawan Port, Indonesia.",
+    "Narration":"During security rounds, crew onboard a berthed tanker noticed one unknown person trying to board the vessel using a grappling hook. Upon being noticed, the person escaped. Incident reported to Port Authority.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.434166,1.7166667000000002 ]
+    },
+    "properties": {
+    "FIELD1":28,
+    "AttackID":"132-19",
+    "Date":"2019-10-09 02:20:00+07:00",
+    "Location":"Dumai Inner Anchorage, Indonesia.",
+    "Narration":"Duty officer onboard an anchored tanker noticed four robbers on deck and informed Master. Alarm raised, crew mustered, and PA announcement made. The robbers escaped without stealing anything and a search carried out. Incident reported to local agent.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.8,3.9166667 ]
+    },
+    "properties": {
+    "FIELD1":29,
+    "AttackID":"131-12",
+    "Date":"2019-10-15 05:00:00+07:00",
+    "Location":"Belawan Anchorage, Indonesia.",
+    "Narration":"Duty crew onboard an anchored tanker noticed a person attempting to board via the anchor chain, while two other persons were waiting in the boat alongside the tanker. The duty crew reported the incident to the OOW who raised the alarm. Seeing the alerted crew, the persons escaped in their boat.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.63333,1.05 ]
+    },
+    "properties": {
+    "FIELD1":30,
+    "AttackID":"130-19",
+    "Date":"2019-10-25 04:15:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Alert crew onboard a tanker underway noticed four robbers on deck and raised the alarm. Hearing the alerted crew, the robbers escaped without stealing anything. Incident reported to Singapore VTIS.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.935745,-6.017537 ]
+    },
+    "properties": {
+    "FIELD1":32,
+    "AttackID":"128-19",
+    "Date":"2019-10-22 00:47:00+07:00",
+    "Location":"Cigading Anchorage, Indonesia.",
+    "Narration":"Alert crew onboard an anchored bulk carrier noticed four unauthorized persons near the entrance of the engine room. Alarm raised and crew mustered. Hearing the alerted crew the persons escaped without stealing anything.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.645,1.0575 ]
+    },
+    "properties": {
+    "FIELD1":35,
+    "AttackID":"125-19",
+    "Date":"2019-10-20 00:00:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Duty oiler on routine rounds onboard a bulk carrier underway was taken hostage by five robbers armed with a gun and knives. The robbers threatened the oiler and tied his hands. They then stole ships spares and escaped. The oiler reported the incident to the OOW who raised the alarm and notified Singapore VTIS.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.11667,1.3 ]
+    },
+    "properties": {
+    "FIELD1":39,
+    "AttackID":"121-19",
+    "Date":"2019-10-06 07:59:00+08:00",
+    "Location":"Johor Anchorage, Malaysia.",
+    "Narration":"Unnoticed, robbers boarded an anchored tanker, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.65,1.0352777 ]
+    },
+    "properties": {
+    "FIELD1":42,
+    "AttackID":"118-19",
+    "Date":"2019-09-30 22:15:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Deck crew on routine rounds onboard a bulk carrier underway in the Singapore TSS spotted five armed robbers on the aft deck. Alarm raised, SSAS activated and PA announcement made resulting in the robbers escaping without stealing anything. Incident reported to Singapore VTIS. After almost one hour and in Singapore waters, a Singapore police coast guard boat intercepted and escorted the ship to Singapore, where they boarded and searched the ship to ensure that the robbers had left.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 116.734024,-1.1096356 ]
+    },
+    "properties": {
+    "FIELD1":43,
+    "AttackID":"117-19",
+    "Date":"2019-09-19 03:00:00+08:00",
+    "Location":"Balikpapan, Indonesia.",
+    "Narration":"Two robbers boarded a berthed tanker. Alert crew noticed the robbers and raised the alarm resulting in the robbers escaping without stealing anything.  Incident reported to local authorities.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.436386,17.063055 ]
+    },
+    "properties": {
+    "FIELD1":44,
+    "AttackID":"116-19",
+    "Date":"2019-09-24 00:55:00+05:30",
+    "Location":"Kakinada Anchorage, India.",
+    "Narration":"Four robbers boarded an anchored LPG tanker using a hook attached with rope. Alert crew noticed the robbers and raised the alarm resulting in the robbers escaping in their boat with ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.53333,1.6 ]
+    },
+    "properties": {
+    "FIELD1":45,
+    "AttackID":"115-19",
+    "Date":"2019-09-26 05:06:00+07:00",
+    "Location":"Around 16nm East of Bandar Penawar, Johor, Malaysia.",
+    "Narration":"A Bosun onboard an anchored general cargo ship sighted three robbers on the forecastle and immediately informed the OOW, who raised the alarm. The crew mustered and proceeded towards the forward. Seeing the alerted crew, the robbers escaped with a mooring rope.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.51694499999999,1.5683334 ]
+    },
+    "properties": {
+    "FIELD1":46,
+    "AttackID":"113-19",
+    "Date":"2019-09-26 03:15:00+07:00",
+    "Location":"Around 16nm East of Bandar Penawar, Johor, Malaysia.",
+    "Narration":"Unnoticed, robbers boarded an anchored tanker via anchor chain and stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.98333000000001,13.766666 ]
+    },
+    "properties": {
+    "FIELD1":47,
+    "AttackID":"114-19",
+    "Date":"2019-09-24 01:00:00+08:00",
+    "Location":"Mabini Anchorage, Philippines.",
+    "Narration":"Duty crew onboard an anchored tanker noticed a person attempting to open the anchor hawse pipe cover. Alarm raised and crew mustered. Incident reported to local agent.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.11667,5.5666666 ]
+    },
+    "properties": {
+    "FIELD1":49,
+    "AttackID":"111-19",
+    "Date":"2019-09-23 11:58:00+08:00",
+    "Location":"Around 6.3nm North of Pulau Tambisan, Sabah, Malaysia.",
+    "Narration":"Seven armed persons in two pump boats, wearing camouflage uniforms and masks, approached two fishing vessels. The persons boarded the fishing vessels, held the crew at gunpoint and took their personal effects, phones and documentation. Before leaving the armed persons kidnapped three crew members from one fishing vessel and headed to Tawi",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.515,1.5683334 ]
+    },
+    "properties": {
+    "FIELD1":54,
+    "AttackID":"106-19",
+    "Date":"2019-09-08 16:08:00+07:00",
+    "Location":"Around 15nm East of Bandar Penawar, Johor, Malaysia.",
+    "Narration":"Three persons boarded an anchored tanker via the anchor cable. They stole the forward liferaft, ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.08195,5.807815 ]
+    },
+    "properties": {
+    "FIELD1":55,
+    "AttackID":"105-19",
+    "Date":"2019-08-27 20:25:00+08:00",
+    "Location":"Sabah, Malaysia.",
+    "Narration":"During routines round, duty AB onboard a berthed bulk carrier noticed two robbers on the forecastle and raised the alarm. Seeing alerted crew, the robbers jumped overboard and escaped in a boat alongside the vessel with another robber. Upon investigation, ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.53333,1.5833334 ]
+    },
+    "properties": {
+    "FIELD1":57,
+    "AttackID":"103-19",
+    "Date":"2019-08-26 03:45:00+07:00",
+    "Location":"Around 17nm ENE of Bandar Penawar, Johor, Malaysia.",
+    "Narration":"Duty crew onboard an anchored tanker noticed armed persons on the forecastle and notified the duty officer. Alarm raised and forward whistle sounded. Master advised all crew to retreat into the accommodation. Hearing the alarm, the armed persons escaped with a life raft and other ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.73939,3.8397129 ]
+    },
+    "properties": {
+    "FIELD1":58,
+    "AttackID":"102-19",
+    "Date":"2019-08-23 01:30:00+07:00",
+    "Location":"Belawan Anchorage, Indonesia.",
+    "Narration":"Duty crew onboard an anchored bulk carrier noticed a small boat near the anchor chain and told the boat to move away as they were about to heave up the anchor. As the duty crew was about to raise the alarm, two armed robbers who had already boarded the ship, held the duty crew at knife point and tied him up. When the ship was ready to heave up the anchor, the remaining crew proceeded to the forecastle. On seeing these crew members approaching, the robbers snatched the duty crew",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.88416,1.1025 ]
+    },
+    "properties": {
+    "FIELD1":60,
+    "AttackID":"100-19",
+    "Date":"2019-08-21 03:40:00+07:00",
+    "Location":"Batam Anchorage, Indonesia.",
+    "Narration":"Five robbers armed with knives boarded an anchored tug. Crew alerted and alarm raised. All crew mustered in a safe location and called the local authorities who responded and boarded the tug for investigations. Deck and engine room spares were reported stolen. All crew safe.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.77,10.738055000000001 ]
+    },
+    "properties": {
+    "FIELD1":62,
+    "AttackID":"098-19",
+    "Date":"2019-08-12 02:30:00+07:00",
+    "Location":"Phuoc Long Mooring Buoy No. 03, Vietnam.",
+    "Narration":"Duty AB on routine rounds onboard a berthed container vessel noticed two robbers armed with knives trying to break into the steering gear room. Duty Officer notified. Alarm raised and crew mustered. Seeing the alerted crew, the robbers escaped. Nothing reported stolen.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.16861,1.1055555000000001 ]
+    },
+    "properties": {
+    "FIELD1":67,
+    "AttackID":"093-19",
+    "Date":"2019-08-07 03:00:00+07:00",
+    "Location":"Tanjung Uban Anchorage, Indonesia.",
+    "Narration":"Three robbers in a wooden boat came alongside an anchored chemical tanker. They attempted to board the tanker using hooks attached with ropes. Duty Officer on security rounds on the bridge noticed the robbers and raised the alarm, sounded ship",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.86667,-6.0084724000000005 ]
+    },
+    "properties": {
+    "FIELD1":71,
+    "AttackID":"089-19",
+    "Date":"2019-07-31 05:20:00+07:00",
+    "Location":"Around 5nm North of Tanjung Priok, Jakarta, Indonesia.",
+    "Narration":"Six robbers armed with knives boarded a chemical tanker waiting for pilot. They injured the Chief Engineer on routine rounds. Alarm raised and crew mustered. Seeing the crew alertness, the robbers escaped empty handed. Incident reported to the VTS.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.77254,3.8785293 ]
+    },
+    "properties": {
+    "FIELD1":72,
+    "AttackID":"088-19",
+    "Date":"2019-07-31 06:20:00+07:00",
+    "Location":"Belawan Anchorage, Indonesia.",
+    "Narration":"Two robbers boarded an anchored bulk carrier. Alarm raised and crew mustered. Seeing the crew alertness, the robbers escaped empty handed. Incident reported to the Port Control.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.36746,1.7574509999999999 ]
+    },
+    "properties": {
+    "FIELD1":75,
+    "AttackID":"085-19",
+    "Date":"2019-07-28 02:55:00+07:00",
+    "Location":"SDS Terminal, St 1, Lubuk Gaung, Indonesia.",
+    "Narration":"Four armed robbers boarded a berthed tanker during cargo operations. Alert crew noticed the robbers near the engine room and raised the alarm. Upon hearing the alarm and seeing the crew alertness, the robbers escaped through the steering gear room. A search was carried out. It was reported that engine spares were stolen. Incident reported to the PFSO.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.90352,1.0682542 ]
+    },
+    "properties": {
+    "FIELD1":76,
+    "AttackID":"084-19",
+    "Date":"2019-07-23 06:00:00+07:00",
+    "Location":"PT Dharma Sentosa Marindo Yard, Batam, Indonesia.",
+    "Narration":"Four robbers in a boat approached and boarded a berthed offshore tug. Second mate on routine rounds noticed footprints on the main deck. Further checks revealed a storeroom padlock broken. Alarm raised and crew mustered. Vessel",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.74468,10.741576 ]
+    },
+    "properties": {
+    "FIELD1":78,
+    "AttackID":"082-19",
+    "Date":"2019-07-25 19:40:00+07:00",
+    "Location":"Lotus Port, Ho Chi Minh City, Vietnam.",
+    "Narration":"Third officer on routine rounds onboard a berthed general cargo ship noticed an unauthorised person on deck throwing items over the shipside. On checking, the duty officer noticed two boats collecting the items. Alarm raised. Seeing the approaching officer, the unauthorised person escaped. Upon checking it was found that the padlock of the forward store was broken, and ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.16888999999999,2.9188888 ]
+    },
+    "properties": {
+    "FIELD1":79,
+    "AttackID":"081-19",
+    "Date":"2019-07-22 02:25:00+07:00",
+    "Location":"Around 16nm NW of Pulau Damar, Indonesia.",
+    "Narration":"Seven pirates armed with a pistol and knives in a small speed boat boarded a bulk carrier underway using a ladder attached with a hook. Master and the second officer taken hostage, tied up and assaulted by the pirates. The pirates stole cash and crew personal belongings before escaping. Incident reported to Korean Authorities.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.51666999999999,1.2166667 ]
+    },
+    "properties": {
+    "FIELD1":81,
+    "AttackID":"079-19",
+    "Date":"2019-07-11 10:30:00+08:00",
+    "Location":"Around 2.9nm South of Tanjung Piai, Johor, Malaysia.",
+    "Narration":"Six small wooden boats approached a tug and barge underway. The unauthorised persons boarded the barge, stole its cargo of scrap metal and escaped. The Master contacted the local authorities who dispatched a patrol vessel to investigate.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.88394,-6.098694999999999 ]
+    },
+    "properties": {
+    "FIELD1":83,
+    "AttackID":"077-19",
+    "Date":"2019-06-30 16:30:00+07:00",
+    "Location":"Jakarta, Indonesia.",
+    "Narration":"Unnoticed, robbers boarded a berthed bulk carrier during cargo operations. Duty Bosun on routine rounds noticed the store padlock broken and notified the Duty Officer. Alarm raised and crew mustered. It was reported that ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.32182,5.1805334 ]
+    },
+    "properties": {
+    "FIELD1":84,
+    "AttackID":"076-19",
+    "Date":"2019-06-18 02:00:00+08:00",
+    "Location":"Sabah, Malaysia.",
+    "Narration":"Two fishing vessels with 16 crews were approached and boarded by armed persons while enroute from Tambisan to Semporna. The armed persons kidnapped 10 crews and escaped. Local authorities notified.The nine crew were reported released on 21.06.2019.  One remaining crew still held.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.38532,1.5734426000000001 ]
+    },
+    "properties": {
+    "FIELD1":86,
+    "AttackID":"074-19",
+    "Date":"2019-05-31 23:30:00+08:00",
+    "Location":"Around 13nm ENE of Bandar Penawar, Johor, Malaysia.",
+    "Narration":"Duty officers onboard an anchored bulk carrier noticed an unauthorised person on the forecastle and proceeded to investigate. As the officers arrived, the person threatened them with a knife and escaped with his accomplice who was waiting in a boat. Incident reported to the local authorities. Coast Guard boarded the vessel to investigate. Nothing reported stolen.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.433334,-3.6833334000000004 ]
+    },
+    "properties": {
+    "FIELD1":87,
+    "AttackID":"073-19",
+    "Date":"2019-02-19 21:45:00+08:00",
+    "Location":"Taboneo Anchorage, Indonesia.",
+    "Narration":"While carrying out routine rounds onboard an anchored bulk carrier, duty crew noticed the forecastle store door broken into and ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.95875500000001,-6.008365 ]
+    },
+    "properties": {
+    "FIELD1":89,
+    "AttackID":"071-19",
+    "Date":"2019-05-29 01:52:00+07:00",
+    "Location":"D6 Berth, Cigading Port, Indonesia.",
+    "Narration":"Duty watchman on routine rounds onboard an anchored bulk carrier noticed two robbers in the steering gear room and immediately informed the OOW who sounded the ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.566666,1.2166667 ]
+    },
+    "properties": {
+    "FIELD1":90,
+    "AttackID":"070-19",
+    "Date":"2019-05-18 16:00:00+08:00",
+    "Location":"Around 3.4nm SSE of Tanjung Piai, Johor, Malaysia.",
+    "Narration":"Persons from five wooden boats approached, illegally boarded and stole properties from a crane barge under tow by a tug and escaped. The tug Master contacted the Authorities and reported the incident.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.43416599999999,-3.7166667 ]
+    },
+    "properties": {
+    "FIELD1":92,
+    "AttackID":"068-19",
+    "Date":"2019-05-23 21:30:00+08:00",
+    "Location":"Taboneo Anchorage, Indonesia.",
+    "Narration":"Seven persons armed with knives, boarded an anchored bulk carrier. They were noticed by the duty watchman who raised the alarm. Crew mustered. The persons threatened the crew with their knives, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.91361,1.0 ]
+    },
+    "properties": {
+    "FIELD1":96,
+    "AttackID":"064-19",
+    "Date":"2019-05-13 01:10:00+07:00",
+    "Location":"Around 4nm East of Pulau Mapur, Indonesia.",
+    "Narration":"Four robbers armed with long knives boarded a general cargo ship underway. They took hostage the duty AB and entered into the Master",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.45,1.721111 ]
+    },
+    "properties": {
+    "FIELD1":101,
+    "AttackID":"059-19",
+    "Date":"2019-05-11 17:00:00+07:00",
+    "Location":"Lubuk Gaung Anchorage, Dumai Port, Indonesia.",
+    "Narration":"The ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 106.89706000000001,-6.0972867 ]
+    },
+    "properties": {
+    "FIELD1":108,
+    "AttackID":"052-19",
+    "Date":"2019-04-27 04:05:00+07:00",
+    "Location":"Jakarta Container Terminal, Indonesia.",
+    "Narration":"Two robbers boarded a berthed container ship. Duty oiler on routine rounds noticed the robbers in the engine room and raised the alarm. Hearing the alarm, the robbers escaped empty handed. A search was made throughout the ship. Nothing reported stolen.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.7,-1.05 ]
+    },
+    "properties": {
+    "FIELD1":113,
+    "AttackID":"SUS-001",
+    "Date":"2019-04-21 12:00:00+03:00",
+    "Location":"Around 270nm SE of Mogadishu, Somalia.",
+    "Narration":"21.04.2019",
+    "Status":"Suspicious"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.03333,13.733334 ]
+    },
+    "properties": {
+    "FIELD1":116,
+    "AttackID":"045-19",
+    "Date":"2019-03-26 20:30:00+08:00",
+    "Location":"Batangas Anchorage, Philippines.",
+    "Narration":"Duty crew on routine rounds noticed a robber near the forecastle and raised the alarm. Crew mustered and approached the forecastle. Seeing the alerted crew, the robber escaped with stolen ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.31721999999999,17.616945 ]
+    },
+    "properties": {
+    "FIELD1":117,
+    "AttackID":"044-19",
+    "Date":"2019-04-13 15:36:00+05:30",
+    "Location":"Visakhapatnam SPM Anchorage, India.",
+    "Narration":"Five boats with eleven persons approached a tanker during anchoring operations. Up on anchoring the boats came alongside, hooked on ropes to the ships rails and commenced boarding the tanker. Alarm raised, ships horn sounded, and crew mustered on deck. Port authorities notified. The unauthorised persons remained on deck as the crew prevented them from entering the accommodation. They did not confront the crew but refused to leave the tanker. Finally, on seeing the approaching pilot boat the unauthorised persons disembarked.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9,14.55 ]
+    },
+    "properties": {
+    "FIELD1":125,
+    "AttackID":"036-19",
+    "Date":"2019-03-27 04:30:00+08:00",
+    "Location":"Manila South Quarantine Anchorage, Philippines.",
+    "Narration":"Unnoticed, robbers boarded an anchored container ship and escaped with ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.448044,-3.7297437000000007 ]
+    },
+    "properties": {
+    "FIELD1":133,
+    "AttackID":"028-19",
+    "Date":"2019-02-25 19:06:00+08:00",
+    "Location":"Taboneo Anchorage, Indonesia.",
+    "Narration":"Duty watchman on routine rounds onboard an anchored bulk carrier noticed two robbers attempting to board via the anchor chain. He immediately informed the OOW who raised the alarm and crew mustered. Seeing the crew alertness, the robbers retreated into their waiting skiff and escaped. Incident reported to Taboneo Port Control.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.7,38.866665000000005 ]
+    },
+    "properties": {
+    "FIELD1":143,
+    "AttackID":"018-19",
+    "Date":"2019-02-11 02:40:00+08:00",
+    "Location":"Caofeidian Anchorage, China.",
+    "Narration":"Duty officer onboard an anchored bulk carrier noticed from the bridge wing a hose connected from an opened DO tank manhole to a small unlit barge alongside the ship. Alarm raised, and duty AB instructed to investigate. Hearing the alarm, the duty officer noticed a robber lowering the hose and escaping in the barge. On sounding the tank, it was reported that DO had been stolen. Incident reported to VTS Caofeidian.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.78333,3.9177777999999996 ]
+    },
+    "properties": {
+    "FIELD1":146,
+    "AttackID":"015-19",
+    "Date":"2019-02-06 05:05:00+07:00",
+    "Location":"Belawan Anchorage, Indonesia.",
+    "Narration":"Duty crew on routine rounds onboard an anchored tanker noticed a robber escaping via the hawse pipe and raised the alarm. Crew mustered and on searching the vessel, ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 70.22291,23.03689 ]
+    },
+    "properties": {
+    "FIELD1":147,
+    "AttackID":"014-19",
+    "Date":"2019-02-03 22:00:00+05:30",
+    "Location":"Oil Jetty No.4, Kandla Port, India.",
+    "Narration":"The chief officer on routine rounds onboard a berthed tanker noticed a boat under the forecastle and notified the other deck crew. Seeing the alerted crew, the boat moved away. On inspection it was noticed that a store room had been broken into, but nothing reported stolen. Port Authorities notified.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.183334,38.866665000000005 ]
+    },
+    "properties": {
+    "FIELD1":148,
+    "AttackID":"013-19",
+    "Date":"2019-01-30 00:55:00+08:00",
+    "Location":"Jingtang Anchorage, China.",
+    "Narration":"Duty crew onboard an anchored ore carrier noticed an unlit barge alongside and raised the alarm. Two robbers wearing masks were seen lowering hoses and escaping from the quarter deck. On searching the ship, oil stains were noticed near the MDO tank sounding pipe. All tanks were sounded. Nothing reported stolen. VTS informed.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9508,-6.0107610000000005 ]
+    },
+    "properties": {
+    "FIELD1":155,
+    "AttackID":"006-19",
+    "Date":"2019-01-11 05:00:00+07:00",
+    "Location":"Ciwandan Anchorage, Indonesia.",
+    "Narration":"During routine rounds, duty crew onboard an anchored cargo vessel noticed the lock to the Engine store broken and ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 118.6,38.9 ]
+    },
+    "properties": {
+    "FIELD1":156,
+    "AttackID":"005-19",
+    "Date":"2019-01-12 04:30:00+08:00",
+    "Location":"Caofeidian Anchorage, China.",
+    "Narration":"Two robbers, armed with a steel bar, boarded an anchored bulk carrier.  Duty crew noticed the robbers and raised the alarm. Hearing the alerted crew, the robbers escaped without stealing anything. Incident reported to port authorities.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 91.701385,21.668888 ]
+    },
+    "properties": {
+    "FIELD1":171,
+    "AttackID":"184-20",
+    "Date":"2020-12-12 18:50:00+06:00",
+    "Location":"Around 10nm West of Matarbari, Bangladesh.",
+    "Narration":"Ten robbers armed with knives in two small boats approached and boarded a tug towing a ship, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.38306,1.7519444 ]
+    },
+    "properties": {
+    "FIELD1":174,
+    "AttackID":"181-20",
+    "Date":"2020-12-15 04:00:00+07:00",
+    "Location":"Lubuk Gaung Port, Dumai, Indonesia.",
+    "Narration":"During routine rounds, duty officer onboard a berthed bulk carrier was taken hostage and tied up by four robbers armed with knives. The robbers stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.263885,1.2677778 ]
+    },
+    "properties": {
+    "FIELD1":184,
+    "AttackID":"171-20",
+    "Date":"2020-11-30 05:20:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Unnoticed, robbers boarded a bulk carrier underway, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.44111,1.7152778000000002 ]
+    },
+    "properties": {
+    "FIELD1":189,
+    "AttackID":"166-20",
+    "Date":"2020-11-25 04:15:00+07:00",
+    "Location":"Dumai Anchorage, Indonesia.",
+    "Narration":"Four robbers armed with knives boarded an anchored tanker. Duty oiler on routine rounds was threatened by the robbers before escaping with stolen engine spares. Incident reported to local authorities through local agent.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 89.62694499999999,22.366667 ]
+    },
+    "properties": {
+    "FIELD1":190,
+    "AttackID":"165-20",
+    "Date":"2020-11-26 03:05:00+06:00",
+    "Location":"Pussur River, Mongla, Bangladesh.",
+    "Narration":"Three robbers armed with a crowbar boarded an anchored tanker. Duty watchman noticed the robbers and informed the bridge. Alarm raised and crew mustered. Seeing the alerted crew, the robbers escaped without stealing anything. Incident reported to Port Control.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.22721999999999,1.2825 ]
+    },
+    "properties": {
+    "FIELD1":191,
+    "AttackID":"164-20",
+    "Date":"2020-11-08 21:26:00+08:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Three robbers armed with knives boarded a tanker underway. Duty engineer on routine rounds noticed the robbers and immediately informed the bridge. Alarm raised, crew mustered and a search was carried out. Seeing the alerted crew, the robbers escaped with stolen ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.30167,20.938612 ]
+    },
+    "properties": {
+    "FIELD1":192,
+    "AttackID":"163-20",
+    "Date":"2020-11-19 20:30:00+07:00",
+    "Location":"Cam Pha Anchorage, Vietnam.",
+    "Narration":"Unnoticed, robbers boarded an anchored bulk carrier, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.066666,1.25 ]
+    },
+    "properties": {
+    "FIELD1":193,
+    "AttackID":"162-20",
+    "Date":"2020-11-17 21:50:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"A Bulk Carrier underway was contacted by VTIS indicating that the ship may have been boarded by robbers. Alarm raised, crew mustered, and ship lights switched on. Three robbers were seen on the poop deck. Seeing the alerted crew, the robbers escaped in a small boat without stealing anything. A search was carried out and VTIS notified.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.24916999999999,1.2827778 ]
+    },
+    "properties": {
+    "FIELD1":195,
+    "AttackID":"160-20",
+    "Date":"2020-11-19 04:19:00+08:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Second engineer on board a tanker underway spotted two unauthorised persons armed with knives. Alarm raised, crew mustered, and a search was carried out. Hearing the alarm and seeing the crew alertness, the robbers escaped without stealing anything. Incident reported to Singapore VTIS.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.15139,1.2711111000000002 ]
+    },
+    "properties": {
+    "FIELD1":204,
+    "AttackID":"151-20",
+    "Date":"2020-10-26 00:35:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"After the pilot disembarked, the Master onboard a bulk carrier underway was contacted by VTIS indicating that the ship may have been boarded by robbers. Master immediately raised the alarm and made announcement on the PA system. As the crew searched the accommodation and engine room, the 4th Engineer encountered three robbers armed with long knives. One of the robbers chased the 4th Engineer. Fortunately, the 4th Engineer managed to escape. Master was advised to drop anchor near Pulau Batam and two Indonesian Navy warships arrived. Indonesian Navy personnel then boarded the ship to investigate. Upon investigation, no robbers were found and the ship resumed her voyage.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.467224,1.7013888 ]
+    },
+    "properties": {
+    "FIELD1":205,
+    "AttackID":"150-20",
+    "Date":"2020-10-28 04:05:00+07:00",
+    "Location":"Dumai Anchorage, Indonesia.",
+    "Narration":"Duty AB on routine rounds onboard an anchored chemical tanker noticed wet footsteps on the poop deck and saw an unauthorised person escaping. Duty Officer notified. The duty AB reported that the person had gained access to the tanker via a bamboo pole and that there were an additional three persons waiting in a boat. the Incident was reported to local agent.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.11806,1.2355555 ]
+    },
+    "properties": {
+    "FIELD1":206,
+    "AttackID":"149-20",
+    "Date":"2020-10-26 00:00:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"While underway, a speed boat approached a bulk carrier and came alongside at the starboard quarter. Alarm raised, deck lights switched on, crew mustered and ship",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.08555600000001,1.25 ]
+    },
+    "properties": {
+    "FIELD1":207,
+    "AttackID":"148-20",
+    "Date":"2020-10-25 22:15:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Duty crew onboard a bulk carrier underway spotted five robbers armed with knives in the engine store room and immediately informed the OOW. Alarm raised and PA announcement made. Seeing the alerted crew, the robbers escaped. Some engine spares were reported stolen. Incident reported to the Singapore VTS. Vessel and crew safe.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.25166,1.2819444 ]
+    },
+    "properties": {
+    "FIELD1":215,
+    "AttackID":"140-20",
+    "Date":"2020-10-13 23:30:00+08:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Three robbers armed with a steel bar boarded a tanker underway. Duty crew on routine rounds noticed the robbers and immediately informed the OOW. Alarm raised and all crew mustered. Seeing the alerted crew, the robbers escaped. Vessel and crew safe.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.816666,1.5169443999999999 ]
+    },
+    "properties": {
+    "FIELD1":223,
+    "AttackID":"132-20",
+    "Date":"2020-09-30 05:00:00+07:00",
+    "Location":"Around 22nm NE of Tg. Berakit, Pulau Bintan, Indonesia",
+    "Narration":"Unauthorised persons boarded an anchored tanker, broke into the aft store, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.86667,14.585278 ]
+    },
+    "properties": {
+    "FIELD1":224,
+    "AttackID":"131-20",
+    "Date":"2020-09-05 02:20:00+08:00",
+    "Location":"MICT Anchorage, Manila, Philippines.",
+    "Narration":"Duty crew onboard an anchored container ship, noticed a masked robber, armed with a knife on the forward deck. He immediately notified the OOW who raised the alarm. Hearing the alerted crew the robber escaped with stolen ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.32445,16.980832999999997 ]
+    },
+    "properties": {
+    "FIELD1":227,
+    "AttackID":"128-20",
+    "Date":"2020-02-11 05:31:00+05:30",
+    "Location":"Kakinada Anchorage, India.",
+    "Narration":"11.02.2020",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.452225,1.3858333999999999 ]
+    },
+    "properties": {
+    "FIELD1":229,
+    "AttackID":"126-20",
+    "Date":"2020-09-23 02:00:00+08:00",
+    "Location":"Around 10nm ENE of Pulau Peak, Johor, Malaysia.",
+    "Narration":"C",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.59167,-0.25277779 ]
+    },
+    "properties": {
+    "FIELD1":231,
+    "AttackID":"124-20",
+    "Date":"2020-06-26 03:45:00+08:00",
+    "Location":"Muara Berau Anchorage, Indonesia.",
+    "Narration":"Unnoticed robbers boarded an anchored bulk carrier, broke into the bosun store, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.485,1.2338889 ]
+    },
+    "properties": {
+    "FIELD1":233,
+    "AttackID":"122-20",
+    "Date":"2020-05-15 18:30:00+08:00",
+    "Location":"Around 3nm SSW of Tanjung Piai, Malaysia.",
+    "Narration":"Robbers boarded a barge under tow and stole properties on the deck. Crew in the tug noticed the robbers and raised the alarm resulting in the robbers escaping. Incident reported to VTS.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.849724,14.540833 ]
+    },
+    "properties": {
+    "FIELD1":234,
+    "AttackID":"121-20",
+    "Date":"2020-09-04 03:35:00+08:00",
+    "Location":"Manila OPL Anchorage, Philippines.",
+    "Narration":"Unnoticed, robbers boarded an anchored general cargo ship, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.28166999999999,1.2831194 ]
+    },
+    "properties": {
+    "FIELD1":235,
+    "AttackID":"120-20",
+    "Date":"2020-08-30 00:40:00+08:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Three unauthorised persons in a boat came alongside a bulk carrier underway. Using a bamboo pole and hook one person boarded the vessel. Alert crew noticed the boarding and raised the alarm. All crew mustered. Seeing the crew alertness, the robbery was averted. Incident reported to Singapore VTS.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.04578400000001,10.393583999999999 ]
+    },
+    "properties": {
+    "FIELD1":236,
+    "AttackID":"119-20",
+    "Date":"2020-06-14 19:00:00+07:00",
+    "Location":"Vietnam.",
+    "Narration":"Unnoticed, robbers boarded an anchored bulk carrier. They stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.441666,1.7166667000000002 ]
+    },
+    "properties": {
+    "FIELD1":238,
+    "AttackID":"117-20",
+    "Date":"2020-08-29 03:05:00+07:00",
+    "Location":"Dumai Anchorage, Indonesia.",
+    "Narration":"Duty watchman on routine rounds onboard an anchored chemical tanker noticed four robbers armed with knives on poop deck trying to open the hatch for emergency towing arrangements. The duty watchman informed bridge. Alarm raised and all non",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.46723999999999,-3.7087263999999998 ]
+    },
+    "properties": {
+    "FIELD1":240,
+    "AttackID":"115-20",
+    "Date":"2020-04-29 04:00:00+08:00",
+    "Location":"Indonesia.",
+    "Narration":"During routine rounds onboard an anchored bulk carrier, alert crew noticed the forecastle booby hatch open and ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.58563999999998,-0.23517543 ]
+    },
+    "properties": {
+    "FIELD1":241,
+    "AttackID":"114-20",
+    "Date":"2020-05-22 05:45:00+08:00",
+    "Location":"Indonesia.",
+    "Narration":"Robbers boarded an anchored bulk carrier and attempted to break the bosun store lock. They were noticed by ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.41722,-3.7016666 ]
+    },
+    "properties": {
+    "FIELD1":242,
+    "AttackID":"005-20",
+    "Date":"2020-04-04 22:30:00+08:00",
+    "Location":"Indonesia.",
+    "Narration":"Robbers boarded an anchored bulk carrier, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.01888999999998,13.733610999999998 ]
+    },
+    "properties": {
+    "FIELD1":243,
+    "AttackID":"112-20",
+    "Date":"2020-08-20 21:20:00+08:00",
+    "Location":"Batangas Anchorage, Philippines.",
+    "Narration":"Duty crew on security rounds onboard an anchored bulk carrier was attacked and injured by a robber armed with a knife. The duty crew managed to escape. OOW notified. Alarm raised and crew mustered. Hearing the alarm and seeing the alerted crew, the robber escaped. Incident reported to the authorities and medical assistance requested. Doctors and coast guard officers boarded the vessel to treat the injured crew and investigate. The crew was later sent to the hospital.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.97667,13.776944 ]
+    },
+    "properties": {
+    "FIELD1":244,
+    "AttackID":"111-20",
+    "Date":"2020-08-14 01:00:00+08:00",
+    "Location":"BBTI Terminal, Batangas, Philippines.",
+    "Narration":"Two robbers in a boat approached a berthed chemical tanker. One robber armed with a knife attempted to board the tanker via the stern mooring rope. Deck watchkeeper noticed the robbers and raised the alarm. Crew mustered. Hearing the alarm and seeing the crew alertness, the robbers aborted the attempted boarding and escaped in their boat. Port Authorities and Coast Guard informed.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 101.452225,1.7022221999999998 ]
+    },
+    "properties": {
+    "FIELD1":245,
+    "AttackID":"110-20",
+    "Date":"2020-08-12 03:15:00+07:00",
+    "Location":"Dumai Inner Anchorage, Indonesia.",
+    "Narration":"A robber boarded an anchored tanker using a hook attached to a rope. Alert duty crew noticed the robber along with two other persons in a wooden boat and raised the alarm. Hearing the alerted crew, the robbers escaped without stealing anything. Port Authorities informed through the local agent.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 108.66917,3.4513887999999997 ]
+    },
+    "properties": {
+    "FIELD1":248,
+    "AttackID":"107-20",
+    "Date":"2020-07-08 21:04:00+07:00",
+    "Location":"Around 23nm SE of Natuna Island, Indonesia.",
+    "Narration":"Around five persons in a boat attempted to come alongside and board a LPG Tanker underway. Seeing the approaching boat the vessel made evasive manoeuvres and directed the Aldis lights towards the boat resulting in the persons aborting and moving away.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.54611,1.2111111 ]
+    },
+    "properties": {
+    "FIELD1":250,
+    "AttackID":"105-20",
+    "Date":"2020-07-26 08:30:00+08:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Robbers in a wooden boat approached and boarded a barge towed by an underway tug. The crew spotted the boat and raised the alarm. Seeing the crew alertness, the robbers escaped. Incident reported to the coast guard, who later boarded the barge for investigation. On searching the barge, nothing was reported stolen.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.20194000000001,1.2666667 ]
+    },
+    "properties": {
+    "FIELD1":253,
+    "AttackID":"102-20",
+    "Date":"2020-07-12 01:00:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Three robbers armed with knives and an axe boarded a bulk carrier underway. The C",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.31944,1.2911111000000002 ]
+    },
+    "properties": {
+    "FIELD1":256,
+    "AttackID":"099-20",
+    "Date":"2020-07-02 00:40:00+08:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Four robbers armed with knives boarded a reefer vessel. Duty crew spotted the robbers and raised the alarm. All crew mustered. Seeing the crew alertness, the robbers escaped with ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.905556,14.563889000000001 ]
+    },
+    "properties": {
+    "FIELD1":260,
+    "AttackID":"095-20",
+    "Date":"2020-06-13 05:00:00+08:00",
+    "Location":"Manila Anchorage, Philippines.",
+    "Narration":"Unnoticed, robbers boarded an anchored container ship. Duty AB on routine rounds noticed the bosun store and paint room door padlocks broken and doors open. He immediately informed the D",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.98333000000001,-5.9005556 ]
+    },
+    "properties": {
+    "FIELD1":261,
+    "AttackID":"094-20",
+    "Date":"2020-06-17 09:00:00+07:00",
+    "Location":"Indonesia.",
+    "Narration":"Unnoticed, robbers boarded an anchored product tanker, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.83555600000001,13.185554999999999 ]
+    },
+    "properties": {
+    "FIELD1":262,
+    "AttackID":"093-20",
+    "Date":"2020-06-16 11:15:00+07:00",
+    "Location":"Thailand.",
+    "Narration":"Unnoticed robbers boarded a anchored bulk carrier during cargo operations, broke into the aft store, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.11806,1.2513889 ]
+    },
+    "properties": {
+    "FIELD1":267,
+    "AttackID":"088-20",
+    "Date":"2020-01-28 01:10:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Two robbers armed with knives boarded a bulk carrier underway. Duty crew spotted the robbers. Alarm raised and crew mustered. Seeing the crew alertness, the robbers escaped with ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 91.81778,22.274166 ]
+    },
+    "properties": {
+    "FIELD1":270,
+    "AttackID":"085-20",
+    "Date":"2020-05-24 22:00:00+06:00",
+    "Location":"Chattogram Port, Bangladesh.",
+    "Narration":"Unnoticed, robbers boarded a berthed product tanker. Duty crew on routine rounds noticed the mooring rope on the winch was cut off. Alarm raised, crew mustered, and a search was carried out. Incident reported to PFSO.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.1,1.2166667 ]
+    },
+    "properties": {
+    "FIELD1":273,
+    "AttackID":"082-20",
+    "Date":"2020-05-18 20:15:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Six robbers armed with machetes boarded the barge under tow.  Three duty watchmen onboard the barge were threatened by the robbers. One watchman was taken hostage while the other two watchmen managed to escape and raised the alarm. Seeing the alerted crew, the robbers escaped stealing the watchmen",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.083336,1.25 ]
+    },
+    "properties": {
+    "FIELD1":274,
+    "AttackID":"081-20",
+    "Date":"2020-05-09 22:48:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Five robbers armed with knives boarded a bulk carrier underway. They injured the duty crew on watch and stole his personal properties. Alarm raised and crew mustered. Seeing the crew alertness, the robbers escaped with stolen ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.99843600000001,-5.9134709999999995 ]
+    },
+    "properties": {
+    "FIELD1":275,
+    "AttackID":"080-20",
+    "Date":"2020-05-18 02:25:00+07:00",
+    "Location":"Merak Anchorage, Indonesia.",
+    "Narration":"Three robbers armed with long knives in a small boat boarded an anchored tanker using a ladder. They forced their way into the steering gear room after breaking the padlock. Alarm raised and crew mustered. Hearing the alarm, the robbers escaped in their boat. A search was carried out. It was reported that engine spares were stolen. Port Control was informed.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.30221999999999,20.950556 ]
+    },
+    "properties": {
+    "FIELD1":276,
+    "AttackID":"079-20",
+    "Date":"2020-05-22 04:50:00+07:00",
+    "Location":"Campha Anchorage, Vietnam.",
+    "Narration":"Unnoticed, robbers boarded an anchored bulk carrier and stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.92959599999999,-6.0315194000000005 ]
+    },
+    "properties": {
+    "FIELD1":277,
+    "AttackID":"078-20",
+    "Date":"2020-05-17 01:30:00+07:00",
+    "Location":"Anyer Anchorage, Indonesia.",
+    "Narration":"Duty crew on routine rounds onboard an anchored tanker noticed a robber armed with a knife. OOW informed and alarm raised. While retreating into the accommodation, the duty crew spotted another robber emerging from the emergency steering room. Crew mustered, and the robbers were seen escaping in their boat. A search was carried out and engine spares were reported missing.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.16889,1.0841666 ]
+    },
+    "properties": {
+    "FIELD1":278,
+    "AttackID":"077-20",
+    "Date":"2020-05-17 04:00:00+07:00",
+    "Location":"Tanjung Uban Anchorage, Indonesia.",
+    "Narration":"Duty crew on routine rounds, onboard an anchored product tanker noticed three robbers armed with knives. The crew raised the alarm and retreated into the accommodation. Crew mustered. Seeing the alerted crew, the robbers escaped. Nothing was reported stolen. Vessel and crew safe.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.70508000000001,3.7836034 ]
+    },
+    "properties": {
+    "FIELD1":279,
+    "AttackID":"076-20",
+    "Date":"2020-05-16 05:30:00+07:00",
+    "Location":"Belawan Port, Indonesia.",
+    "Narration":"Unnoticed, robbers boarded a berthed product tanker and stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.58333600000002,-0.26666668 ]
+    },
+    "properties": {
+    "FIELD1":286,
+    "AttackID":"070-20",
+    "Date":"2020-05-06 07:30:00+08:00",
+    "Location":"Muara Berau Anchorage, Indonesia.",
+    "Narration":"Duty crew on routine rounds onboard an anchored bulk carrier noticed the forward hatch of the forecastle open. Upon inspection, it was discovered that the security padlock was broken and ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.86889,1.6019444 ]
+    },
+    "properties": {
+    "FIELD1":288,
+    "AttackID":"068-20",
+    "Date":"2020-05-04 02:50:00+07:00",
+    "Location":"Around 29nm NE of Pulau Bintan, Indonesia.",
+    "Narration":"Four robbers in a wooden boat, armed with knives, came alongside an anchored product tanker. Two of the robbers boarded the tanker using a hook attached with a rope. Duty AB on routine rounds encountered the robbers and immediately informed the bridge. Alarm raised, PA announcement made, and crew mustered. The robbers took the AB",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.269165,1.2686111 ]
+    },
+    "properties": {
+    "FIELD1":290,
+    "AttackID":"066-20",
+    "Date":"2020-04-30 04:15:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Duty crew in the engine room noticed three unauthorised persons entering the engine room. The duty crew shouted at the persons who escaped. Alarm raised, crew mustered, and Singapore VTIS notified. The Singapore Police boarded the vessel for inspection. On searching the vessel, nothing was reported stolen.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.05,1.2555555 ]
+    },
+    "properties": {
+    "FIELD1":294,
+    "AttackID":"062-20",
+    "Date":"2020-04-22 22:00:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Two robbers armed with knives boarded a bulk carrier underway. Duty crew spotted the robbers and informed the OOW. Alarm raised and crew mustered. Singapore Police Coast Guard boarded the vessel for investigation. Nothing reported stolen.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.46003,-3.6905682 ]
+    },
+    "properties": {
+    "FIELD1":296,
+    "AttackID":"060-20",
+    "Date":"2020-04-12 05:00:00+08:00",
+    "Location":"Indonesia.",
+    "Narration":"Duty crew on routine rounds onboard an anchored bulk carrier noticed the forward store room door security padlock broken. Further investigation revealed ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.477776,1.7083334 ]
+    },
+    "properties": {
+    "FIELD1":299,
+    "AttackID":"057-20",
+    "Date":"2020-04-11 09:30:00+07:00",
+    "Location":"Around 16nm NE of Bandar Penawar, Malaysia.",
+    "Narration":"Unnoticed, robber boarded an anchored tanker, stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.11433999999998,10.413364999999999 ]
+    },
+    "properties": {
+    "FIELD1":301,
+    "AttackID":"055-20",
+    "Date":"2020-04-20 01:45:00+07:00",
+    "Location":"Vietnam.",
+    "Narration":"Four robbers in a wooden boat boarded an anchored chemical tanker. Duty watchman on routine rounds noticed the robbers and notified the OOW. Alarm raised and ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.03333,1.2527778 ]
+    },
+    "properties": {
+    "FIELD1":304,
+    "AttackID":"052-20",
+    "Date":"2020-04-16 00:00:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Three robbers armed with long knives in an unlit boat approached and boarded a bulk carrier underway. Duty oiler on routine rounds noticed the robbers in the engine room and raised the alarm. Master made PA announcement, crew mustered and made a search. Hearing the alarm and seeing the crew alertness, the robbers escaped with stolen ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.91023999999999,14.562786 ]
+    },
+    "properties": {
+    "FIELD1":306,
+    "AttackID":"050-20",
+    "Date":"2020-04-14 03:10:00+08:00",
+    "Location":"Manila Anchorage, Philippines.",
+    "Narration":"Two robbers in an unlit boat approached and boarded an anchored container ship. Duty OS on routine rounds noticed the boat and raised the alarm. Crew mustered and moved forward. Seeing the alerted crew the robbers escaped with ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.333336,21.400278 ]
+    },
+    "properties": {
+    "FIELD1":309,
+    "AttackID":"047-20",
+    "Date":"2020-03-27 20:00:00+05:30",
+    "Location":"Around 8nm East of Alang, India.",
+    "Narration":"Crew onboard a tug towing the barge noticed unauthorised persons boarding the barge, stealing barge properties and escaping. Alarm raised and incident reported to VTS and Coast Guard, who dispatched a boat to investigate.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 91.84278,21.695278 ]
+    },
+    "properties": {
+    "FIELD1":312,
+    "AttackID":"044-20",
+    "Date":"2020-02-07 19:10:00+06:00",
+    "Location":"Matarbari Anchorage, Bangladesh.",
+    "Narration":"Duty AB onboard an anchored tug noticed robbers armed with knives boarding the tug and immediately informed the Duty Officer. Alarm raised and crew mustered. Robbers stole ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.002045,13.692691 ]
+    },
+    "properties": {
+    "FIELD1":314,
+    "AttackID":"042-20",
+    "Date":"2020-03-23 02:25:00+08:00",
+    "Location":"Philippines.",
+    "Narration":"Duty crew onboard a berthed product tanker noticed a robber with a long knife near the forecastle and immediately informed the OOW. Alarm raised and all crew mustered. Seeing the alerted crew, the robber escaped. Vessel and crew safe.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.3,16.966667 ]
+    },
+    "properties": {
+    "FIELD1":317,
+    "AttackID":"039-20",
+    "Date":"2020-02-28 04:00:00+05:30",
+    "Location":"Kakinada Anchorage, India.",
+    "Narration":"Seven persons in a dinghy boat approached and boarded an anchored offshore tug. They stole lube oil drums and escaped. Incident reported to Kakinada Coast Guard. Two coast guard ships were deployed to search the fishing boats in the vicinity.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.771385,3.925 ]
+    },
+    "properties": {
+    "FIELD1":320,
+    "AttackID":"036-20",
+    "Date":"2020-03-13 20:10:00+07:00",
+    "Location":"Belawan Anchorage, Indonesia.",
+    "Narration":"Duty watchman onboard an anchored container ship noticed an armed robber on the forecastle.  He immediately informed the duty officer who sounded the alarm. Hearing the alarm and seeing the alerted crew, the robber escaped by boat. A second robber was spotted escaping via the anchor chain. Crew mustered and a search was carried out. Nothing reported stolen.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.433334,1.1691667 ]
+    },
+    "properties": {
+    "FIELD1":321,
+    "AttackID":"035-20",
+    "Date":"2020-03-16 03:30:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Three robbers armed with crowbar and pipes boarded a bulk carrier underway. The engine crew noticed the robbers and managed to lock them inside the engine room workshop. Alarm raised and crew mustered. Two accomplices in a skiff tried to approach the vessel but were repelled by the crew. Singaporean and Indonesian Authorities notified. Two Indonesian Authority armed guards boarded the vessel and arrested the three robbers.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.44,1.1847222 ]
+    },
+    "properties": {
+    "FIELD1":326,
+    "AttackID":"030-20",
+    "Date":"2020-02-27 23:30:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Duty lookout onboard the bridge of a bulk carrier underway noticed four unauthorized persons near the accommodation block. Alarm raised, crew mustered and Singapore VTIS notified. Hearing the alerted crew the unauthorised persons escaped. The Singapore Coast Guard boarded the vessel for inspection. On searching the vessel, nothing was reported stolen.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.0525,20.61111 ]
+    },
+    "properties": {
+    "FIELD1":327,
+    "AttackID":"029-20",
+    "Date":"2020-02-19 08:20:00+05:30",
+    "Location":"Around 7.7nm SSE of Diu, Gujarat, India.",
+    "Narration":"Nine persons in a fishing boat approached a tanker under tow by a tug. Two persons boarded the tanker. The Master of the tug immediately reported the incident to the Indian Coast Guard via vhf ch",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.40166500000001,17.051389999999998 ]
+    },
+    "properties": {
+    "FIELD1":329,
+    "AttackID":"027-20",
+    "Date":"2020-02-20 00:00:00+05:30",
+    "Location":"Kakinada Anchorage, India.",
+    "Narration":"During routine rounds, crew noticed ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.16167,1.2583333 ]
+    },
+    "properties": {
+    "FIELD1":336,
+    "AttackID":"020-20",
+    "Date":"2020-02-09 01:20:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Duty crew onboard a bulk carrier underway noticed six armed robbers in the engine room and raised the alarm. Crew mustered and incident reported to Singapore VTIS. Seeing the alerted crew, the robbers escaped with stolen ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.270836,1.2722223 ]
+    },
+    "properties": {
+    "FIELD1":338,
+    "AttackID":"018-20",
+    "Date":"2020-01-08 03:15:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Duty motorman on routine engine room rounds, onboard a product tanker underway, noticed an unauthorized person armed with a knife in the steering gear room. As the motorman challenged the person, a second person was noticed escaping towards the poop deck. Alarm raised. Incident reported to Singapore VTIS. On searching the tanker, nothing was reported stolen.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.174446,1.2686111 ]
+    },
+    "properties": {
+    "FIELD1":339,
+    "AttackID":"017-20",
+    "Date":"2020-02-09 01:30:00+07:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Duty crew onboard a product tanker underway noticed an unauthorised person in the engine room. Alarm raised, crew mustered, and incident reported to Singapore VTIS. On searching the vessel it was noticed that ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.91055,1.0747222 ]
+    },
+    "properties": {
+    "FIELD1":342,
+    "AttackID":"014-20",
+    "Date":"2020-02-03 04:20:00+07:00",
+    "Location":"Around 0.4nm SW of PT Dharma Sentosa Marindo Yard, Pulau Batam, Indonesia.",
+    "Narration":"Alert crew onboard a tug moored to a buoy noticed three robbers on deck and raised the alarm. The crew confronted the robbers who were able to escape with the assistance of two of their accomplices waiting in their boat. Incident reported to the police who boarded the tug for investigations. A search was carried out. It was noticed the padlock to the storeroom was damaged and ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.1458,1.0841056 ]
+    },
+    "properties": {
+    "FIELD1":343,
+    "AttackID":"013-20",
+    "Date":"2020-01-21 04:45:00+07:00",
+    "Location":"Pulau Batam, Indonesia.",
+    "Narration":"While anchored, a product tanker was boarded by two robbers. While they were stealing ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 98.75667,3.9469445 ]
+    },
+    "properties": {
+    "FIELD1":348,
+    "AttackID":"008-20",
+    "Date":"2020-01-26 10:24:00+07:00",
+    "Location":"Belawan Anchorage, Indonesia.",
+    "Narration":"Deck watchmen on routine rounds onboard an anchored tanker noticed the forward storeroom broken into and ships properties missing. On searching the area, footsteps were noticed on the forecastle and it was assumed that the thieves gained access via the anchor chain.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.287224,21.403334 ]
+    },
+    "properties": {
+    "FIELD1":350,
+    "AttackID":"006-20",
+    "Date":"2020-01-07 07:00:00+05:30",
+    "Location":"Alang Anchorage, India.",
+    "Narration":"While anchored, persons in a small boat approached and boarded a barge, stole some scrap metal and escaped. Master noticed the persons and reported the incident to the Authorities who managed to apprehend the thieves.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 119.07875,5.4868182999999995 ]
+    },
+    "properties": {
+    "FIELD1":351,
+    "AttackID":"004-20",
+    "Date":"2020-01-16 20:00:00+08:00",
+    "Location":"Lahad Datu, Malaysia.",
+    "Narration":"A fishing vessel was attacked by six armed persons in a grey coloured speed boat. Malaysian Authorities managed to locate and intercept the fishing vessel. Three crews were found safe on the vessel. The remaining five crews were reported kidnapped.",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.434723,12.100278 ]
+    },
+    "properties": {
+    "FIELD1":357,
+    "AttackID":"004-21",
+    "Date":"2021-01-14 11:49:00+03:00",
+    "Location":"Gulf of Aden.",
+    "Narration":"While underway, a bulk carrier noticed a skiff approaching. Alarm sounded and all crew mustered. At a distance of 0.2nm weapons and ladders were noticed in the skiff. The onboard armed team fired warning shots, resulting in the skiff aborting and moving away.",
+    "Status":"Attempted"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.5675,-0.2522222 ]
+    },
+    "properties": {
+    "FIELD1":359,
+    "AttackID":"002-21",
+    "Date":"2021-01-04 03:40:00+08:00",
+    "Location":"Muara Berau Anchorage, Indonesia.",
+    "Narration":"Three robbers armed with knives boarded an anchored bulk carrier. Duty crew spotted the robbers near the forecastle store escaping with ship",
+    "Status":"Boarded"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.319725,1.2908334 ]
+    },
+    "properties": {
+    "FIELD1":361,
+    "AttackID":"Boarded",
+    "Date":"2021-01-29 02:20:00+08:00",
+    "Location":"Singapore Straits.",
+    "Narration":"Three robbers armed with long knives boarded a general cargo ship underway. Duty crew spotted the robbers in the engine room and raised the alarm. Crew mustered. Seeing the crew alertness, the robbers escaped empty handed. Incident reported to VTIS.",
+    "Status":"008-21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.434723,12.100278 ]
+    },
+    "properties": {
+    "FIELD1":365,
+    "AttackID":"Attempted",
+    "Date":"2021-01-14 11:49:00+03:00",
+    "Location":"Gulf of Aden.",
+    "Narration":"While underway, a bulk carrier noticed a skiff approaching. Alarm sounded and all crew mustered. At a distance of 0.2nm weapons and ladders were noticed in the skiff. The onboard armed team fired warning shots, resulting in the skiff aborting and moving away.",
+    "Status":"004-21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.5675,-0.2522222 ]
+    },
+    "properties": {
+    "FIELD1":367,
+    "AttackID":"Boarded",
+    "Date":"2021-01-04 03:40:00+08:00",
+    "Location":"Muara Berau Anchorage, Indonesia.",
+    "Narration":"Three robbers armed with knives boarded an anchored bulk carrier. Duty crew spotted the robbers near the forecastle store escaping with ship",
+    "Status":"002-21"
+    }
+  }
+]
+}

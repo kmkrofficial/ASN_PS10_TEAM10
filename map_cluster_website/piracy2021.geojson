@@ -1,0 +1,117 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.319725,1.2908334 ]
+    },
+    "properties": {
+    "Status":"Boarded",
+    "AttackID":"008-21",
+    "Location":"Singapore Straits.",
+    "Narration":"Three robbers armed with long knives boarded a general cargo ship underway. Duty crew spotted the robbers in the engine room and raised the alarm. Crew mustered. Seeing the crew alertness, the robbers escaped empty handed. Incident reported to VTIS.",
+    "Date":"2021-01-29 02:20:00+08:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.0727777,1.0702778 ]
+    },
+    "properties": {
+    "Status":"Boarded",
+    "AttackID":"007-21",
+    "Location":"around 98nm NW of Sao Tome",
+    "Narration":"While underway, a container ship was boarded by an unknown number of pirates. One crew killed, 15 crews kidnapped. Remaining three crew managed to navigate to a safe port.",
+    "Date":"2021-01-23 05:35:00+00:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.166668,-0.06666667 ]
+    },
+    "properties": {
+    "Status":"Boarded",
+    "AttackID":"006-21",
+    "Location":"Brazil.",
+    "Narration":"Unnoticed robbers boarded a berthed bulk carrier, stole ship",
+    "Date":"2021-01-13 01:00:00-03:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.516667,2.3994443 ]
+    },
+    "properties": {
+    "Status":"Fired Upon",
+    "AttackID":"005-21",
+    "Location":"around 120nm SSW of Brass, Nigeria.",
+    "Narration":"While underway, a container ship was approached and fired upon by pirates in a small craft. Alarm sounded and all crew mustered in the citadel. The incident was reported to the Regional Authorities. Ship and crew reported safe.",
+    "Date":"2021-01-13 19:00:00+00:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.434723,12.100278 ]
+    },
+    "properties": {
+    "Status":"Attempted",
+    "AttackID":"004-21",
+    "Location":"Gulf of Aden.",
+    "Narration":"While underway, a bulk carrier noticed a skiff approaching. Alarm sounded and all crew mustered. At a distance of 0.2nm weapons and ladders were noticed in the skiff. The onboard armed team fired warning shots, resulting in the skiff aborting and moving away.",
+    "Date":"2021-01-14 11:49:00+03:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.61667,18.633333 ]
+    },
+    "properties": {
+    "Status":"Boarded",
+    "AttackID":"003-21",
+    "Location":"Port Au Prince, Haiti",
+    "Narration":"Duty officer onboard an anchored bulk carrier noticed a suspicious echo on the radar and asked the security patrol to investigate. The security patrol noticed a boat with around six robbers armed with a gun boarding using a ladder with hooks. Alarm raised, crew retreated into the accommodation. The robbers threatened the Chief Engineer who was attempting to secure an open accommodation door. Incident reported to the coast guard and PFSO. The Coast Guard responded and boarded the vessel to carry out a search and investigate. Ship",
+    "Date":"2021-01-03 19:53:00-05:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 117.5675,-0.2522222 ]
+    },
+    "properties": {
+    "Status":"Boarded",
+    "AttackID":"002-21",
+    "Location":"Muara Berau Anchorage, Indonesia.",
+    "Narration":"Three robbers armed with knives boarded an anchored bulk carrier. Duty crew spotted the robbers near the forecastle store escaping with ship",
+    "Date":"2021-01-04 03:40:00+08:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.739166,-4.7258334 ]
+    },
+    "properties": {
+    "Status":"Boarded",
+    "AttackID":"001-21",
+    "Location":"Pointe Noire North Anchorage, The Congo.",
+    "Narration":"Robbers armed with knives boarded an anchored container ship. General alarm sounded and all crew mustered in the citadel. The robbers stole ship",
+    "Date":"2021-01-04 01:48:00+01:00"
+    }
+  }
+]
+}
